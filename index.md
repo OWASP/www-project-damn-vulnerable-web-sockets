@@ -29,6 +29,7 @@ It requires the following to work properly:
 - PHP with MySQLi support
 - Ratchet
 - ReactPHP-MySQL
+
 Note: Ratchet and ReactPHP-MySQL are packaged inside DVWS. Separate installation is not required.
 
 ## Licensing
