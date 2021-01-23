@@ -6,8 +6,8 @@
 * <i class="fas fa-hammer" style="color:#233e81;"></i> Breaker
 * <i class="fas fa-shield-alt" style="color:#233e81;"></i> Defender
 
-### Downloads or Social Links
-* [Download](https://github.com/interference-security/DVWS)
+### Social Links
+* [Twitter](https://twitter.com/xploresec)
 
 ### Code Repository
 * [GitHub](https://github.com/interference-security/DVWS)
