@@ -9,7 +9,7 @@ pitch: A very brief, one-line description of your project
 
 ---
 
-Damn Vulnerable Web Sockets (DVWS) is a deliberately vulnerable and insecure web application which works on web sockets for client-server communication. It is built on PHP with Ratchet and utilizes MySQL as backend database. It allows users to test their web sockets testing skills, tools and scripts for web socket vulnerabilities. Web socket testing can be performed using popular tools such as OWASP ZAP and Burp Suite.
+[Damn Vulnerable Web Sockets (DVWS)](https://github.com/interference-security/DVWS) is a deliberately vulnerable and insecure web application which works on web sockets for client-server communication. It is built on PHP with Ratchet and utilizes MySQL as backend database. It allows users to test their web sockets testing skills, tools and scripts for web socket vulnerabilities. Web socket testing can be performed using popular tools such as OWASP ZAP and Burp Suite.
 
 ## Description
 _Damn Vulnerable Web Sockets (DVWS)_ is a deliberately vulnerable and insecure web application which works on web sockets for client-server communication. It is built on PHP with Ratchet and utilizes MySQL as backend database. DVWS has a number of functionalities which you commonly see in every other web application, they have been implemented in web sockets which is different from a typical web application communication.
@@ -34,4 +34,4 @@ It requires the following to work properly:
 Note: Ratchet and ReactPHP-MySQL are packaged inside DVWS. Separate installation is not required.
 
 ## Licensing
-This program is free software: you can redistribute it and/or modify it under the terms of the MIT License.
+This program is free software: you can redistribute it and/or modify it under the terms of the [MIT License](https://github.com/interference-security/DVWS/blob/master/LICENSE).
