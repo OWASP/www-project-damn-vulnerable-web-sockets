@@ -8,10 +8,11 @@
 
 ### Social Links
 * [Twitter](https://twitter.com/xploresec)
+* [LinkedIn](https://www.linkedin.com/in/abhineet-jayaraj)
 
 ### Code Repository
 * [GitHub](https://github.com/interference-security/DVWS)
 
 ### Change Log
-* [Changes](https://raw.githubusercontent.com/interference-security/DVWS/master/changelog.txt)
+* [Changes](https://github.com/interference-security/DVWS/blob/master/changelog.txt)
 
