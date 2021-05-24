@@ -32,5 +32,8 @@ It requires the following to work properly:
 
 Note: Ratchet and ReactPHP-MySQL are packaged inside DVWS. Separate installation is not required.
 
+## Screenshot
+![image](https://user-images.githubusercontent.com/5358495/119394820-a725e580-bca0-11eb-9cc7-d31fc30572ce.png)
+
 ## Licensing
 This program is free software: you can redistribute it and/or modify it under the terms of the [MIT License](https://github.com/interference-security/DVWS/blob/master/LICENSE).
