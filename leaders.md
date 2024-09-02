@@ -1,2 +1,2 @@
 ### Leaders
-* [Abhineet Jayaraj](https://linkedin.com/in/abhineet-jayaraj)
+* [Abhineet Jayaraj](mailto:abhineet9020@gmail.com)
