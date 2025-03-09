@@ -23,6 +23,8 @@ The following vulnerabilities can be found:
 - Stored Cross-Site Scripting
 - Session Management Issues
 - Cross Origin Issue
+- Server Side Template Injection (SSTI)
+- PHP Code Injection
 
 It requires the following to work properly:
 - Apache + PHP + MySQL
