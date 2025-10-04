@@ -1,0 +1,26 @@
+audience:
+  - breaker
+  - builder
+  - defender
+leaders:
+  - name: Abhineet Jayaraj
+    email: abhineet.jayaraj@owasp.org
+    github: interference-security
+level: 2
+license:
+  - MIT
+name: OWASP Damn Vulnerable Web Sockets
+pitch: A very brief, one-line description of your project
+repositories:
+  - name: www-project-damn-vulnerable-web-sockets
+    url: https://github.com/OWASP/www-project-damn-vulnerable-web-sockets
+    description: OWASP Foundation Web Repository
+  - name: DVWS
+    url: https://github.com/interference-security/DVWS
+    description: OWSAP Damn Vulnerable Web Sockets (DVWS) is a vulnerable web application which works on web sockets for client-server communication.
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-damn-vulnerable-web-sockets
